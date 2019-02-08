@@ -22,6 +22,8 @@
         "icons",
         "jars",
         "themes",
-        "translations"
+        "translations",
+        "libraries",
+        "meta"
     ]
 }
