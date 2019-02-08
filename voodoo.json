@@ -1,6 +1,6 @@
 {
     "version": "1",
     "url": "https://jenkins.modmuss50.me/job/NikkyAI/job/DaemonicLabs/job/Voodoo/job/master/lastSuccessfulBuild/artifact/bootstrap/build/libs/bootstrap-voodoo.jar",
-    "bin": ["java", "-jar", "$dir/bootstrap-voodoo.jar"],
+    "bin": [ [ "java -jar bootstrap-voodoo.jar", "voodoo" ] ],
     "hash": "92e8ea74f2d4c8b6046fffc72ae935d6df8336ed40c7743c827f552b74d37e8c"
 }
