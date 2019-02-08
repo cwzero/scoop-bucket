@@ -11,13 +11,6 @@
         "icons",
         "jars",
         "themes",
-        "translations",
-        "install.json",
-        "multimc.config",
-        "manifest.json",
-        "live.check",
-        "metacache",
-        "notifications.json",
-        "qt.conf"
+        "translations"
     ]
 }
