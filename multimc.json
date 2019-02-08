@@ -7,10 +7,16 @@
     "license": "https://github.com/MultiMC/MultiMC5/blob/develop/COPYING.md",
     "hash": "30b0e7a4a39a9e4dfb9b4044b1b9099197dcadaaeb673dbd8070c95d7688f262",
     "pre_install": [
-        "echo \"\">$dir/accounts.json"
+        "echo \"\">>$dir/accounts.json",
+        "echo \"\">>$dir/notifications.json",
+        "echo \"\">>$dir/multimc.cfg",
+        "echo \"\">>$dir/qt.conf"
     ],
     "persist": [
         "accounts.json",
+        "multimc.cfg",
+        "qt.conf",
+        "notifications.json",
         "accounts",
         "instances",
         "icons",
