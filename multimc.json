@@ -4,5 +4,19 @@
     "extract_dir": "MultiMC",
     "bin": "MultiMC.exe",
     "homepage": "http://multimc.org/",
-    "license": "https://github.com/MultiMC/MultiMC5/blob/develop/COPYING.md"
+    "license": "https://github.com/MultiMC/MultiMC5/blob/develop/COPYING.md",
+    "persist": [
+        "instances",
+        "icons",
+        "jars",
+        "themes",
+        "translations",
+        "install.json",
+        "multimc.config",
+        "manifest.json",
+        "live.check",
+        "metacache",
+        "notifications.json",
+        "qt.conf"
+    ]
 }
