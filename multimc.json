@@ -1,0 +1,8 @@
+{
+    "version": "0.6.1",
+    "url": "https://github.com/MultiMC/MultiMC5/releases/download/0.6.1/mmc-stable-win32.zip",
+    "extract_dir": "MultiMC",
+    "bin": "MultiMC.exe",
+    "homepage": "http://multimc.org/",
+    "license": "https://github.com/MultiMC/MultiMC5/blob/develop/COPYING.md"
+}
