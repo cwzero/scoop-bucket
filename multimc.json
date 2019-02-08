@@ -1,11 +1,10 @@
 {
-    "version": "0.6.1",
-    "url": "https://github.com/MultiMC/MultiMC5/releases/download/0.6.1/mmc-stable-win32.zip",
+    "version": "5",
+    "url": "https://files.multimc.org/downloads/mmc-stable-win32.zip",
     "extract_dir": "MultiMC",
     "bin": "MultiMC.exe",
     "homepage": "http://multimc.org/",
     "license": "https://github.com/MultiMC/MultiMC5/blob/develop/COPYING.md",
-    "hash": "30b0e7a4a39a9e4dfb9b4044b1b9099197dcadaaeb673dbd8070c95d7688f262",
     "pre_install": [
         "echo \"\">>$dir/accounts.json",
         "echo \"\">>$dir/notifications.json",
